@@ -1,6 +1,8 @@
 # raey-core
 A collection of basic modules for the core functionality of a bot and provides a basic mechanism for writing new commands.
 
+![](data/mini-admin-help.png)
+
 This project makes writing bot modules effortless and the minimum you need for a module is this.
 ``` python
 # Basic module you can drop in the modules folder.
